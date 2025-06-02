@@ -42,9 +42,10 @@ Setelah instalasi, kamu bisa login via RDP menggunakan IP server dan user `root`
 
 ### 📜 License:
 
-MIT
+Power By
+- ARI STORE
+- CHAT-GPT
 
 ---
 
-Kalau kamu belum punya script-nya dan ingin saya bantu buatkan isi `install.sh` juga, tinggal beri tahu!
 
