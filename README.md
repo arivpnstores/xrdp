@@ -36,7 +36,7 @@ bash <(curl -sL https://raw.githubusercontent.com/arivpnstores/xrdp/main/install
 
 ### 📋 Contoh:
 
-Setelah instalasi, kamu bisa login via RDP menggunakan IP server dan user `root` atau user lain.
+Setelah instalasi, kamu bisa login via RDP menggunakan IP server dan user `root`.
 
 ---
 
