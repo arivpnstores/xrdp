@@ -1,4 +1,3 @@
-
 # 📁 Repository: **xrdp-xfce-installer**
 
 ### 🖥️ Install XRDP + XFCE Desktop Environment on Ubuntu/Debian
@@ -22,10 +21,8 @@ Script ini secara otomatis menginstal **XRDP** dan **XFCE** di sistem Ubuntu dan
 ### 📦 Cara Instalasi Otomatis:
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/username/xrdp-xfce-installer/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/arivpnstores/xrdp/main/)
 ```
-
-> Gantilah `username` dengan username GitHub kamu setelah script diupload.
 
 ---
 
