@@ -21,7 +21,7 @@ Script ini secara otomatis menginstal **XRDP** dan **XFCE** di sistem Ubuntu dan
 ### 📦 Cara Instalasi Otomatis:
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/arivpnstores/xrdp/main/)
+bash <(curl -sL https://raw.githubusercontent.com/arivpnstores/xrdp/main/install_xrdp_xfce.sh)
 ```
 
 ---
