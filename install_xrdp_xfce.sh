@@ -87,8 +87,8 @@ echo "➡️ Connect via RDP to this machine using its IP address (port 3389)"
 username="root"
 
 # Menampilkan username yang digunakan untuk XRDP
-read -sp "Username untuk XRDP adalah : " username
-echo
+#read -sp "Username untuk XRDP adalah : " username
+#echo
 
 # Meminta input password baru untuk user XRDP
 read -sp "Masukkan password baru untuk : " new_password
